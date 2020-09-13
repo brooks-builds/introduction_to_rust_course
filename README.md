@@ -12,7 +12,8 @@ introduction_to_rust_course
 | 8   | Installing Rust on Ubuntu Linux | Getting Started |           |                                              | N/A            |
 | 9   | Installing Rust on Mac          | Getting Started |           |                                              | N/A            |
 | 10  | Hello world                     | Getting Started |           | getting_started_10_hell_world                |                |
-| 12  | Variables                       | Getting Started |           |                                              |                |
+| 13  | Running the Assessments         |                 |           |                                              |                |
+| 12  | Variables                       | Getting Started |           | getting_started_12_variables                 |                |
 | 11  | Cross-compiling                 |                 |           |                                              |                |
 | 5   | Putting it all together         | Assessment      |           |                                              |                |
 | 6   | Final Project                   | Assessment      |           |                                              |                |
