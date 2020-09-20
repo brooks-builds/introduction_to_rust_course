@@ -14,7 +14,8 @@ introduction_to_rust_course
 | 10  | Hello world                     | Getting Started |           | getting_started_10_hell_world                |                |
 | 13  | How to use this course          |                 |           |                                              |                |
 | 12  | Variables                       | Getting Started |           | getting_started_12_variables                 |                |
-| 13  | Variables assessment solution   | Getting Started |           |                                              |                |
+| 14  | Conditionals                    | Getting Started |           |                                              |                |
+| 13  | functions                       | Getting Started |           | getting_started_13_functions                 |                |
 | 11  | Cross-compiling                 |                 |           |                                              |                |
 | 5   | Putting it all together         | Assessment      |           |                                              |                |
 | 6   | Final Project                   | Assessment      |           |                                              |                |
